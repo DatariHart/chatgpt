@@ -1,0 +1,2 @@
+javac Main.java
+jar cvf app.jar Main.class
